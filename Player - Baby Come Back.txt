@@ -1,0 +1,51 @@
+{title: 70s - Player - Baby Come Back}
+{artist: Player}
+{key: Cm}
+{capo: 0}
+{tempo: 156}
+{time: 4/4}
+{duration: 4:15}
+{comment: Key: C Minor | Capo: None | Tempo: ~156 BPM | Time: 4/4 | Duration: 4:15 | Year: 1977 (from album Player)}
+
+{c: Intro}
+[Ab/Bb] [Gm7] [Ab/Bb] [Gm7]
+[Ab/Bb] [Gm7] [Ab/Bb] [Gm7] [Cm]
+
+{c: Verse 1}
+[Ab/Bb]Spendin' all my nights, all my money goin' [Gm7]out on the town
+[Ab/Bb]Doin' anythin' just to get you off of my [Gm7]mind
+[Ab/Bb]But when the mornin' comes, I'm right where I [Gm7]started again
+[Ab/Bb]And tryin' to forget you is just a waste of [Gm7]time
+
+{c: Chorus}
+[C]Baby come back, [Abmaj7]any kind of fool could [Gm7]see [Cm]
+There was [Fm7]somethin' in every[Gm7]thing about [Cm]you
+[Abmaj7]Baby come back, you can blame it all on [Gm7]me [Cm]
+I was [Fm7]wrong and I just can't [Gm7]live without [Cm]you
+
+{c: Verse 2}
+[Ab/Bb]All day long, I'm wearin' a mask of false bra[Gm7]vado
+[Ab/Bb]Tryin' to keep up a smile that hides a [Gm7]tear
+[Ab/Bb]But as the sun goes down, I get that empty [Gm7]feelin' again
+[Ab/Bb]And tryin' to forget you is just a waste of [Gm7]time
+
+{c: Chorus}
+[C]Baby come back, [Abmaj7]any kind of fool could [Gm7]see [Cm]
+There was [Fm7]somethin' in every[Gm7]thing about [Cm]you
+[Abmaj7]Baby come back, you can blame it all on [Gm7]me [Cm]
+I was [Fm7]wrong and I just can't [Gm7]live without [Cm]you
+
+{c: Bridge / Solo}
+[Abmaj7] [Gm7] [Cm] [Fm7] [Gm7]
+[Cm] [Abmaj7] [Gm7] [Cm] [Fm7] [Gm7] [Cm]
+
+{c: Final Chorus}
+[Abmaj7]Baby come back, oh darling any kind of fool could [Gm7]see [Cm]
+There was [Fm7]somethin' in every[Gm7]thing about [Cm]you
+[Abmaj7]Baby come back, listen baby you can blame it all on [Gm7]me [Cm]
+I was [Fm7]wrong and I just can't [Gm7]live without [Cm]you
+I was [Fm7]wrong and I just can't [Gm7]live without [Cm]you
+
+{c: Outro}
+[Fm7] [Gm7] [Cm] [Abmaj7] [Gm7] [Cm]
+(Fade)

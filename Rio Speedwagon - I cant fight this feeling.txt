@@ -1,0 +1,54 @@
+{title: 80s - REO Speedwagon - Can't Fight This Feeling}
+{artist: REO Speedwagon}
+{key: A}
+{capo: 0}
+{tempo: 79}
+{time: 4/4}
+{duration: 4:54}
+{comment: Song key: A major}
+{comment: Capo: No capo}
+{comment: Tempo: 79 BPM (half-time feel; some sources list ~156)}
+{comment: Time: 4/4}
+{comment: Duration: 4:54}
+{comment: Year of release: 1984}
+
+{comment: Intro}
+[A] [E/A] [F#m7/A] [E/A]
+[A] [E/A] [F#m7/A] [E/A]
+
+{start_of_verse}
+[A]I can't fight this feeling any longer
+[Bm]And yet I'm still afraid to let it [E]flow
+[A]What started out as friendship has grown stronger
+[Bm]I only wish I had the strength to let it [E]show
+[A]I tell myself that I can't hold out forever
+[Bm]I say there is no reason for my [E]fear
+[A]'Cause I feel so secure when we're together
+[Bm]You give my life direction
+You make everything so [E]clear
+{end_of_verse}
+
+{start_of_bridge}
+[D]And even as I wander
+I'm keeping you in [C#m]sight
+[D]You're a candle in the window
+On a cold dark winter's [A]night
+[D]And I'm getting closer than
+I ever thought I [E]might
+{end_of_bridge}
+
+{start_of_chorus}
+[D]And I can't fight this feeling any[A]more
+I've forgotten what I started fighting [Bm]for
+It's time to bring this ship into the [D]shore
+And throw away the oars for[E]ever
+[D]'Cause I can't fight this feeling any[A]more
+I've forgotten what I started fighting [Bm]for
+And if I have to crawl upon the [D]floor
+Come crashing through your door
+Baby, I can't fight this feeling any[E]more
+{end_of_chorus}
+
+{comment: Solo}
+[A] [E] [D] [E]
+[A] [E]

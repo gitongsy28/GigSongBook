@@ -1,0 +1,71 @@
+{title: 70s - Seals & Crofts - Summer Breeze}
+{artist: Seals & Crofts}
+{key: E}
+{capo: 0}
+{tempo: 88}
+{time: 4/4}
+{duration: 3:24}
+{comment: Key: E Major | Capo: None | Tempo: 88 BPM | Time: 4/4 | Duration: 3:24 | Year: 1972 (from album Summer Breeze)}
+
+{c: Intro}
+[E5]  [G6/E]  [A/E]  [E5]
+[E5]  [G6/E]  [A/E]  [E5]
+
+{c: Verse 1}
+[E5]See the curtains [G6/E]hanging in the window
+[A/E]In the evening on a [E5]lively breeze
+[E5]Big yellow moon [G6/E]shining through the trees
+[A/E]Smell the jasmine [E5]burning in the air
+
+{c: Pre-Chorus}
+[Am7]  Blowin' through the [Bm7]jasmine in my mind
+[Am7]  Blowin' through the [Bm7]jasmine in my mind
+
+{c: Chorus}
+[E]Summer breeze, [G]makes me feel fine
+[A]Blowin' through the jasmine in my [E]mind
+[E]Summer breeze, [G]makes me feel fine
+[A]Blowin' through the jasmine in my [E]mind
+
+{c: Interlude}
+[E5]  [G6/E]  [A/E]  [E5]
+
+{c: Verse 2}
+[E5]See the paper [G6/E]layin' on the sidewalk
+[A/E]A little article 'bout [E5]you and me
+[E5]A whole lot of [G6/E]trouble, whole lot of news
+[A/E]Bout the way that we [E5]used to be
+
+{c: Pre-Chorus}
+[Am7]  Blowin' through the [Bm7]jasmine in my mind
+[Am7]  Blowin' through the [Bm7]jasmine in my mind
+
+{c: Chorus}
+[E]Summer breeze, [G]makes me feel fine
+[A]Blowin' through the jasmine in my [E]mind
+[E]Summer breeze, [G]makes me feel fine
+[A]Blowin' through the jasmine in my [E]mind
+
+{c: Guitar Solo}
+[E5]  [G6/E]  [A/E]  [E5]
+[E5]  [G6/E]  [A/E]  [E5]
+
+{c: Verse 3}
+[E5]Sweet days of [G6/E]summer, warm July
+[A/E]Kissing in the [E5]light of day
+[E5]Running through the [G6/E]meadows, holding hands
+[A/E]Gonna wash all my [E5]cares away
+
+{c: Pre-Chorus}
+[Am7]  Blowin' through the [Bm7]jasmine in my mind
+[Am7]  Blowin' through the [Bm7]jasmine in my mind
+
+{c: Chorus}
+[E]Summer breeze, [G]makes me feel fine
+[A]Blowin' through the jasmine in my [E]mind
+[E]Summer breeze, [G]makes me feel fine
+[A]Blowin' through the jasmine in my [E]mind
+
+{c: Outro}
+[E5]  [G6/E]  [A/E]  [E5]
+(repeat and fade)
