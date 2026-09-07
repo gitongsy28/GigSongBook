@@ -1,4 +1,4 @@
-{title: 70s - Player - BabyX Come Back}
+{title: 70s - Player - BabyZ Come Back}
 {artist: Player}
 {key: Cm}
 {capo: 0}
