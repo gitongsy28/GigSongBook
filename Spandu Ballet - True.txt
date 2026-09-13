@@ -1,0 +1,113 @@
+{title: 80s - Spandau Ballet - True}
+{artist: Spandau Ballet}
+{key: G}
+{Era: New}
+{capo: 0}
+{tempo: 98}
+{time: 4/4}
+{duration: 5:40}
+{meta: ScrollSpeed : 10}
+{comment: Song key: G major}
+{comment: Capo: No capo}
+{comment: Tempo: 98 BPM}
+{comment: Time: 4/4}
+{comment: Duration: 5:40 (single edit; album version ~6:00)}
+{comment: Year of release: 1983}
+{ meta : ScrollPaiseSec : 10 }
+
+{meta: BackTrack1 : BackTrack No Vocal : https://www.youtube.com/watch?v=N7-6gMjPXFs : }
+{meta: BackTrack2 : BackTrack w/ Vocal : https://www.youtube.com/watch?v=cVdtbs5AVvM : }
+{meta: BackTrack3 : Karaoke : https://www.youtube.com/watch?v=tJok6WV19PY : }
+{meta: BackTrack4 : Karaoke (Lower Key) : https://www.youtube.com/watch?v=t9G5ykbEYiw : }
+
+{define: G5/D base-fret 10 frets x x 12 12 x 10}
+{define: E9* base-fret 10 frets 0 x 0 11 12 10}
+{define: *CmMaj7 base-fret 10 frets 11 12 12 12 12 x}
+{define: A#m base-fret 13 frets x 13 15 15 14 13}
+{define: Gadd9/D base-fret 10 frets 10 12 12 12 12 x}
+{define: A#m/F base-fret 13 frets x x 15 15 14 13}
+
+
+{c: Intro}
+[G5/D] [E9*] [Gadd9/D] [A#m/F]
+[G5/D] [E9*] [Gadd9/D] [A#m/F]
+{meta: ScrollPauseSec : 8}
+[G5/D]Ha - Ha Ha [E9*]haaaaaa [Gadd9/D]Ha [A#m/F]
+[G5/D] [E9*] [Gadd9/D] [A#m/F]
+Ha - Ha Ha haaaaaa Ha 
+
+[Am] [CMaj7] [C7] [F] [F]
+
+{c: Verse 1}
+[G]So true, funny how it [Bm]seems
+[C]Always in time, but never in line for [D#]dreams [G]
+[Bm]Head over heels when toe to [C]toe
+[Em7]This is the sound of my [C]soul
+[G]This is the sound
+{end_of_verse}
+
+{c: Pre-Chorus 1}
+[C]I bought a ticket to the [G]world
+[C]But now I've come back a[G]gain
+[C]Why do I find it hard to write the [G]next line?
+[C]Oh I want the truth to be [F]said
+{end_of_bridge}
+
+{c: Chorus}
+[G]Huh huh huh, hu-uh [Em7]huh
+[C]I know this much is [Bm]true
+[G]Huh huh huh, hu-uh [Em7]huh
+[C]I know this much is [Bm]true [Am] [F]
+{end_of_chorus}
+
+{c: Verse 2}
+[G]With a thrill in my head and a pill on my [Bm]tongue [C]
+[D#]Dissolve the nerves that have just be[G]gun
+[Bm]Listening to Marvin all night [C]long
+[Em7]This is the sound of my [C]soul
+[G]This is the sound
+{end_of_verse}
+
+{c: Pre-Chorus 2}
+[C]Always slipping from my [G]hands
+[C]Sand's a time of its [G]own
+[C]Take your seaside arms and write[G]next line
+[C]Oh I want the truth to be [F]known
+{end_of_bridge}
+
+{c: Chorus}
+[G]Huh huh huh, hu-uh [Em7]huh
+[C]I know this much is [Bm]true
+[G]Huh huh huh, hu-uh [Em7]huh
+[C]I know this much is [Bm]true [Am] [F]
+{end_of_chorus}
+
+{c: Saxophone Solo}
+[D#] [G#] [D#] [G#]
+[D#] [G#] [D#] [G#]
+[D#] [G#] [D#] [G#]
+[D#] [G#] [G]
+{c: Pre-Chorus 3}
+[C]I bought a ticket to the [G]world
+[C]But now I've come back a[G]gain
+[C]Why do I find it hard to write the [G]next line?
+[C]Oh I want the truth to be [F]said
+{end_of_bridge}
+
+{c: Chorus}
+[G]Huh huh huh, hu-uh [Em7]huh
+[C]I know this much is [Bm]true
+[G]Huh huh huh, hu-uh [Em7]huh
+[C]I know this much is [Bm]true
+{end_of_chorus}
+
+{c: Bridge / Outro}
+[Em7]This much is [Am]true
+[Em7]This much is [Am]true [F]
+[G]This much is true
+[Em7]This much is true
+[C]This much is true
+[Bm] [G]
+[Em7]This much is true
+[C]I know this much is [Bm]true
+[G]This much is true

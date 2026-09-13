@@ -1,0 +1,76 @@
+{title: 80s - Whitesnake - Is This Love}
+{artist: Whitesnake}
+{key: Em}
+{capo: 0}
+{tempo: 91}
+{time: 4/4}
+{duration: 4:48}
+{comment: Song key: E minor}
+{comment: Capo: No capo}
+{comment: Tempo: 91 BPM}
+{comment: Time: 4/4}
+{comment: Duration: 4:48}
+{comment: Year of release: 1987}
+
+{comment: Intro}
+[Em7] [Bm7] [Cadd9]
+[Em7] [Bm7] [Cadd9]
+[Em7] [Bm7] [Cadd9]
+[CM7] [Bm7] [Am7] [G] [F]
+
+{start_of_verse}
+[Em7]Should've known better
+[Bm7]Than to let you go a[Cadd9]lone
+[Em7]It's times like these
+[Bm7]I can't make it on my [Cadd9]own
+[Em7]Wasted days and sleepless [Bm7]nights [Cadd9]
+[CM7]And I can't wait to [Bm7]see you a[Am7]gain [G] [F]
+{end_of_verse}
+
+{start_of_verse}
+[Em7]I find I spend my time
+[Bm7]Waiting on your [Cadd9]call
+[Em7]How can I tell you babe
+[Bm7]My back's against the [Cadd9]wall
+[Em7]I need you by my side
+[Bm7]To tell me it's all [Cadd9]right
+[CM7]'Cause I don't think I can [Bm7]take any[Am7]more [G] [F]
+{end_of_verse}
+
+{start_of_chorus}
+[Cadd9]Is this love that I'm [D/C]feeling
+[Bm7]Is this the love that I've been searching [C]for [Bm7] [Am7] [G]
+[Cadd9]Is this love or am I [D/C]dreaming
+[Bm7]This must be love
+[CM7]'Cause it's really got a [Bm7]hold on [Am7]me [GM7] [FM7]
+A hold on me
+{end_of_chorus}
+
+{comment: Solo}
+[Em7] [Bm7] [Cadd9]
+[Em7] [Bm7] [Cadd9]
+
+{start_of_verse}
+[Em7]Can't stop the feeling
+[Bm7]Never been this way be[Cadd9]fore
+[Em7]But with you I've found the key
+[Bm7]To open any [Cadd9]door
+[Em7]I can feel my love for you
+[Bm7]Growing stronger day by [Cadd9]day
+[CM7]And I can't wait to [Bm7]see you a[Am7]gain [G] [F]
+So I can hold you in my arms
+{end_of_verse}
+
+{start_of_chorus}
+[Cadd9]Is this love that I'm [D/C]feeling
+[Bm7]Is this the love that I've been searching [C]for [Bm7] [Am7] [G]
+[Cadd9]Is this love or am I [D/C]dreaming
+[Bm7]This must be love
+[CM7]'Cause it's really got a [Bm7]hold on [Am7]me [GM7] [FM7]
+A hold on me
+{end_of_chorus}
+
+{comment: Outro}
+[Cadd9]Is this love
+[D/C]Is this love
+[Bm7]Is this the love that I've been searching for

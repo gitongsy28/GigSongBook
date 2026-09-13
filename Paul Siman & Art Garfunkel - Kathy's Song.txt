@@ -1,0 +1,47 @@
+{title: 60s - Simon & Garfunkel - Kathy's Song}
+{artist: Simon & Garfunkel}
+{key: G}
+{capo: 0}
+{tempo: 102}
+{time: 4/4}
+{duration: 3:21}
+{comment: Key: G Major (concert pitch often F#; common guitar arrangement in G) | Capo: None | Tempo: ~102 BPM | Time: 4/4 | Duration: 3:21 | Year: 1966 (from album Sounds of Silence)}
+
+{c: Intro}
+[G] [C] [G]
+
+{c: Verse 1}
+[G]I hear the drizzle of the [C]rain [G]
+[Am]Like a memory it [Em]falls [C] [D7]
+[G]Soft and warm con[Bm]tinu[G]ing [C]
+[Am]Tapping on my roof and [Em]walls [D] [G] [C] [G]
+
+{c: Verse 2}
+[G]And from the shelter of my [C]mind [G]
+[Am]Through the window of my [Em]eyes [C] [D7]
+[G]I gaze beyond the rain-drenched [Bm]streets [G] [C]
+[Am]To England where my heart [Em]lies [D] [G] [C] [G]
+
+{c: Verse 3}
+[G]My mind's distracted and di[C]vided [G]
+[Am]My thoughts are many miles a[Em]way [C] [D7]
+[G]They lie with you when you're a[Bm]sleep [G] [C]
+[Am]And kiss you when you start your [Em]day [D] [G] [C] [G]
+
+{c: Verse 4}
+[G]And a song I was writing is [C]left undone [G]
+[Am]I don't know why I spend my [Em]time [C] [D7]
+[G]Writing songs I can't be[Bm]lieve [G] [C]
+[Am]With words that tear and strain to [Em]rhyme [D] [G] [C] [G]
+
+{c: Verse 5}
+[G]And so you see I have come to [C]doubt [G]
+[Am]All that I once held as [Em]true [C] [D7]
+[G]I stand alone without be[Bm]liefs [G] [C]
+[Am]The only truth I know is [Em]you [D] [G] [C] [G]
+
+{c: Verse 6}
+[G]And as I watch the drops of [C]rain [G]
+[Am]Weave their weary paths and [Em]die [C] [D7]
+[G]I know that I am like the [Bm]rain [G] [C]
+[Am]There but for the grace of you go [Em]I [D] [G] [C] [G]
