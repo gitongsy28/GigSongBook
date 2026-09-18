@@ -6,14 +6,8 @@
 {tempo: 98}
 {time: 4/4}
 {duration: 5:40}
-{meta: ScrollSpeed : 10}
-{comment: Song key: G major}
-{comment: Capo: No capo}
-{comment: Tempo: 98 BPM}
-{comment: Time: 4/4}
-{comment: Duration: 5:40 (single edit; album version ~6:00)}
-{comment: Year of release: 1983}
-{ meta : ScrollPaiseSec : 10 }
+{meta: ScrollSpeed : 15}
+{meta: ScrollPaiseSec : 10 }
 
 {meta: BackTrack1 : BackTrack No Vocal : https://www.youtube.com/watch?v=N7-6gMjPXFs : }
 {meta: BackTrack2 : BackTrack w/ Vocal : https://www.youtube.com/watch?v=cVdtbs5AVvM : }
@@ -29,6 +23,17 @@
 
 
 {c: Intro}
+
+ Riff (with techniques)
+e|-----0-------0h2p0-----3b5r3-----|---------------------------------|
+B|---------1---------1---------0---|-----5h7p5-----8b10r8~~~---------|
+G|-----2-------2-------2-------2---|-4/6-------6---------------7p5---|
+D|-2-------2-------2-------2-------|---------------------------------|
+A|---------------------------------|---------------------------------|
+E|---------------------------------|---------------------------------|
+
+
+
 [G5/D] [E9*] [Gadd9/D] [A#m/F]
 [G5/D] [E9*] [Gadd9/D] [A#m/F]
 {meta: ScrollPauseSec : 8}
@@ -36,10 +41,10 @@
 [G5/D] [E9*] [Gadd9/D] [A#m/F]
 Ha - Ha Ha haaaaaa Ha 
 
-[Am] [CMaj7] [C7] [F] [F]
+[Am] [CMaj7]  [C7] [F] 
 
 {c: Verse 1}
-[G]So true, funny how it [Bm]seems
+[G]So true, funny how it [Bm]seems[A]
 [C]Always in time, but never in line for [D#]dreams [G]
 [Bm]Head over heels when toe to [C]toe
 [Em7]This is the sound of my [C]soul
